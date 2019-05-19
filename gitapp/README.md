@@ -13,16 +13,6 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/rocketseat/react-native-template-rocketseat-basic.svg)](https://github.com/Rocketseat/react-native-template-rocketseat-basic/commits/master)
 [![NPM](https://img.shields.io/npm/l/react-native-template-rocketseat-basic.svg)](https://choosealicense.com/licenses/mit)
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://rocketseat.com.br">
-    <img src="https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/rocketseat_logo_roxa.png" alt="Logo">
-  </a>
-
-  <h3 align="center">Template Rocketseat Basic</h3>
-</p>
-
 <!-- TABLE OF CONTENTS -->
 
 ## Tabela de Conteúdo
